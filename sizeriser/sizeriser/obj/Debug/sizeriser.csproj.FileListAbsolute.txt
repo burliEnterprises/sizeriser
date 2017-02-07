@@ -1,0 +1,16 @@
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\bin\Debug\sizeriser.exe.config
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\bin\Debug\sizeriser.exe
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\bin\Debug\sizeriser.pdb
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.csprojResolveAssemblyReference.cache
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.Properties.Resources.resources
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.csproj.GenerateResource.Cache
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.exe
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.pdb
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.hauptform.resources
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.impressum.impressum.resources
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.help.help.resources
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\bin\Debug\sizeriser.exe.manifest
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\bin\Debug\sizeriser.application
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.TrustInfo.xml
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.exe.manifest
+D:\VisualStudio-Datas\sizeriser\sizeriser\sizeriser\obj\Debug\sizeriser.application
